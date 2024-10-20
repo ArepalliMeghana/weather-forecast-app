@@ -11,7 +11,9 @@ WeatherWise is a web application that provides real-time weather information bas
 - **Responsive Design**: Adapts to different screen sizes for a better user experience.
 
 ## Technologies Used
-
+- Html
+- Css
+- Javascript
 - React
 - Bootstrap
 - Axios

@@ -32,7 +32,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/weatherwise.git
+   git clone https://github.com/ArepalliMeghana/weatherwise.git
    cd weatherwise
 2. **Install the dependencies**:
       npm install
